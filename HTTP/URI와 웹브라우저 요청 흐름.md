@@ -1,4 +1,4 @@
-# URI와 웹브라우저 요청 흐름https://www.inflearn.com/course/http-웹-네트워크
+# URI와 웹브라우저 요청 흐름
 
 Date: October 7, 2021
 
