@@ -7,5 +7,6 @@
 
 ### [HTTP](/HTTP)
 ### [Algorithm](/Algorithm)
-### [ETC](/ETC) 분류가 애매해서 나중에 분류 예정
-
+### [JAVA](/JAVA)
+### [DataStructure](/DataStructure)
+### [CS](/CS)
